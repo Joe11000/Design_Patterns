@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'rspec'
+gem 'activesupport'
+gem 'reek'
+gem 'flog'
+gem 'pry'
+gem 'guard-rspec'

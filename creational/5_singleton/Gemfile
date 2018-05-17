@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+require 'pp'
+
+gem "fakefs", require: "fakefs/safe"
+gem 'rspec'
+gem 'guard-rspec'
+gem 'pry'

@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+ruby '2.5.0'
+
+gem 'guard'
+gem 'factory_bot'
+gem 'faker'
+gem 'flog'
+gem 'pry'
+gem 'rspec'
