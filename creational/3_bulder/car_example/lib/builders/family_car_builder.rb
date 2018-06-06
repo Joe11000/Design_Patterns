@@ -7,7 +7,7 @@ require 'pry'
 
 # Concrete Builders
 class FamilyCarBuilder
-  def self.build |builder|
+  def self.build builder
     builder = new
     yield builder
     builder.car
